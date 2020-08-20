@@ -1,0 +1,56 @@
+/* h2:hover {
+    color:red;
+}
+
+.subtitle {
+    color:blue;
+}
+
+#services {
+    color:green;
+} */
+
+/* li:first-child {
+    color: yellowgreen;
+}
+
+li:nth-child(2) {
+    color:rgb(225, 26, 165);
+} */
+
+/* li:only-child{
+    color:rgb(150, 120, 218);
+} */
+
+/* td:first-child{
+    color: palevioletred;
+} */
+
+/* #google-link:link {
+ color:blue;
+}
+
+#google-link:visited {
+
+    color:red;
+} */
+
+h2 + a{
+    color:sienna;
+}
+
+textarea + button {
+    color:palevioletred;
+}
+
+ul > li {
+    color: blueviolet
+}
+
+/* ul li {
+    color: green;
+} */
+
+/* ol > li {
+    color: orange;
+} */
